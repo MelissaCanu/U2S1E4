@@ -72,7 +72,7 @@ body {
 #container div:nth-of-type(2):hover,
 #container div:nth-of-type(4):hover,
 #container div:nth-of-type(8):hover {
-  transform: scale(1.5) translateZ(50px) rotate(-14deg);
+  transform: scale(1.5) translateZ(50px) rotate(-8deg);
   z-index: 2;
 }
 
